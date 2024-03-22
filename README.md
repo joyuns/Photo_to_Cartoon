@@ -16,19 +16,19 @@ convert photo to cartoon style
 -Display the cartoon image.<br/>
 
 # Demonstration
--Playing a video<br/>
+-the simple image<br/>
 <p align="center">
   <img src="[https://github.com/joyuns/Photo_to_Cartoon/Photo_to_Cartoon/testimg1.jpg](https://github.com/joyuns/Photo_to_Cartoon/tree/1eb8a96a506aa2d4283ab361865e89b271677fcb/Photo_to_Cartoon)">
 </p>
--Display red points when recording a video<br/>
+-Convert the simple image<br/>
 <p align="center">
   <img src="https://github.com/joyuns/Video_Recorder/assets/90548771/1f29a73e-dfb5-4b76-824b-aeb66328baba">
 </p>
--Recorded complete<br/>
+-the complicated image<br/>
 <p align="center">
   <img src="https://github.com/joyuns/Video_Recorder/assets/90548771/07b8e6cc-368c-4ade-8a55-29c60aa6ceb2">
 </p>
--Zoom in funcion<br/>
+-Convert the complicated image<br/>
 <p align="center">
   <img src="https://github.com/joyuns/Video_Recorder/assets/90548771/4f6090bb-6bb9-4a49-8963-5832c4556878">
 </p>
