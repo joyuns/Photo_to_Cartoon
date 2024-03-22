@@ -7,13 +7,13 @@ convert photo to cartoon style
 -This repository convert photo to cartoon style using OpenCV.
 
 # How To Operaite
--Load the image.
--Convert the image to grayscale.
--Apply median blur to reduce noise.
--Detect edges using adaptive thresholding.
--Convert the image to color.
--Combine the color image with the edges mask.
--Display the cartoon image.
+-Load the image.<br/>
+-Convert the image to grayscale.<br/>
+-Apply median blur to reduce noise.<br/>
+-Detect edges using adaptive thresholding.<br/>
+-Convert the image to color.<br/>
+-Combine the color image with the edges mask.<br/>
+-Display the cartoon image.<br/>
 
 # Demonstration
 -Playing a video<br/>
