@@ -24,11 +24,11 @@ convert photo to cartoon style
 </p>
 -Convert the simple image<br/>
 <p align="center">
-  <img src="https://github.com/joyuns/Photo_to_Cartoon/assets/90548771/1114d9f4-da3a-4751-b6e1-fbafec74caec">
+  <img src="https://github.com/joyuns/Photo_to_Cartoon/assets/90548771/046d7db4-8a27-449b-8ed7-1bcb7f017e54">
 </p>
 -the complicated image<br/>
 <p align="center">
-  <img src="https://github.com/joyuns/Photo_to_Cartoon/assets/90548771/046d7db4-8a27-449b-8ed7-1bcb7f017e54">
+  <img src="https://github.com/joyuns/Photo_to_Cartoon/assets/90548771/1114d9f4-da3a-4751-b6e1-fbafec74caec">
 </p>
 -Convert the complicated image<br/>
 <p align="center">
