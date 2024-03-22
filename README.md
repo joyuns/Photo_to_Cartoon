@@ -15,7 +15,8 @@ convert photo to cartoon style
 -Combine the color image with the edges mask.<br/>
 -Display the cartoon image.<br/>
 
-# Demonstration
+# Discussion of Limitations
+-The program is that it is difficult to turn various images into cartoon styles.The more complex the details and colors of the image are, the more inconsistent the algorithm's performance becomes. There is also a limit to implementing the specific cartoon style that the user wants. The current program needs to be developed a little more because it goes through a relatively simple process.<br/>
 
 # Demonstration
 -the simple image<br/>
