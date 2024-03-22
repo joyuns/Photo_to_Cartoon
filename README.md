@@ -18,7 +18,7 @@ convert photo to cartoon style
 # Demonstration
 -Playing a video<br/>
 <p align="center">
-  <img src="https://github.com/joyuns/Video_Recorder/assets/90548771/6058364c-a26a-474c-b51c-0789a427952c">
+  <img src="https://github.com/joyuns/Photo_to_Cartoon/Photo_to_Cartoon/testimg1.jpg">
 </p>
 -Display red points when recording a video<br/>
 <p align="center">
